@@ -5,9 +5,9 @@
 
 ## Array로 사용하기
 
-WithArray.js
-
 ```javascript
+// UsingArray.js
+
 const stack = [];
 
 stack.push(1);
@@ -24,9 +24,9 @@ console.log(stack[stack.length - 1]); // 2
 
 ## Linked List로 구현
 
-WithLinkedList.js
-
 ```javascript
+// UsingLinkedList.js
+
 class Node {
   constructor(value) {
     this.value = value;
