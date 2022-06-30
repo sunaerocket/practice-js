@@ -6,6 +6,8 @@
  * 3. 없으면 A 인쇄
  *
  * 문서의 인덱스가 주어질 때, 몇 번째로 인쇄되는지 출력하기
+ *
+ * https://programmers.co.kr/learn/courses/13213/lessons/91078
  */
 
 function solution(priorities, location) {

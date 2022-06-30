@@ -4,6 +4,7 @@
  * 2. 장르 내에서 많이 재생된 노래를 먼저 수록
  * 3. 장르 내 재생 횟수가 같은 노래 중 인덱스가 낮은 노래를 먼저 수록
  *
+ * https://programmers.co.kr/learn/courses/13213/lessons/91081
  */
 
 function solution(genres, plays) {

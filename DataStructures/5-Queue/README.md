@@ -19,7 +19,7 @@
 - JS Array에서는 인덱스 문제는 없지만 입력이 커지면 메모리 점유를 많이 하게 된다
 
 ```javascript
-// LinearWithArray.js
+// LinearUsingArray.js
 
 class Queue {
   constructor() {
@@ -69,7 +69,7 @@ console.log(queue);
 - 배열 같은 인덱스 문제는 발생하지 않음
 
 ```javascript
-//LinearWithLinkedList.js
+//LinearUsingLinkedList.js
 
 class Node {
   constructor(value) {
@@ -136,7 +136,7 @@ console.log(queue);
 ### Array로 표현하기
 
 ```javascript
-// CircularWithArray.js
+// CircularUsingArray.js
 
 class Queue {
   constructor(maxSize) {
