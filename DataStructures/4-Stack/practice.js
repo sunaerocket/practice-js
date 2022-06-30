@@ -5,6 +5,8 @@
  * "(())()" => true
  * ")()(" => false
  * "(()(" => false
+ *
+ * https://programmers.co.kr/learn/courses/13213/lessons/91074
  */
 
 function solution(input) {
